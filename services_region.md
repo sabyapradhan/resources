@@ -46,7 +46,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Blockchain | Hosted in Dallas | Not available | 
 | Blockchain Platform | Hosted in Dallas | Not available | 
 | Certificate Manager | Hosted in Dallas | Not available | 
-| Cloud Foundry Enterprise Environment | Not available | Not available | 
+| Cloud Foundry Enterprise Environment | Hosted in Dallas | Hosted in Washington DC | 
 | Cloud Object Storage | Hosted globally | Hosted globally | 
 | Cloudant | Hosted in Dallas | Hosted in Washington DC | 
 | Compare and Comply | Hosted in Dallas | Hosted in Washington DC | 
@@ -164,7 +164,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Blockchain | Syndicated from Dallas | Syndicated from Dallas | 
 | Blockchain Platform | Not available | Hosted in Frankfurt | 
 | Certificate Manager | Hosted in London | Hosted in Frankfurt | 
-| Cloud Foundry Enterprise Environment | Not available | Hosted in Frankfurt | 
+| Cloud Foundry Enterprise Environment | Hosted in London | Hosted in Frankfurt | 
 | Cloud Object Storage | Hosted globally | Hosted globally | 
 | Cloudant | Hosted in London | Hosted in Frankfurt | 
 | Compare and Comply | Not available | Hosted in Frankfurt | 
@@ -282,7 +282,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Blockchain | Syndicated from Dallas | Not available | 
 | Blockchain Platform | Not available | Hosted in Tokyo | 
 | Certificate Manager | Not available | Hosted in Tokyo | 
-| Cloud Foundry Enterprise Environment | Not available | Not available | 
+| Cloud Foundry Enterprise Environment | Hosted in Sydney | Hosted in Tokyo  | 
 | Cloud Object Storage | Hosted globally | Hosted globally | 
 | Cloudant | Hosted in Sydney | Hosted in Tokyo | 
 | Compare and Comply | Not available | Not available | 
