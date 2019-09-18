@@ -56,6 +56,8 @@ Refer to the documentation for the specific service for more information about u
 | {{site.data.keyword.containershort}} | [Public and private service endpoints for {{site.data.keyword.containershort_notm}}](/docs/containers?topic=containers-plan_clusters#workeruser-master) |
 | {{site.data.keyword.cos_short}} | [{{site.data.keyword.cos_short}}](/docs/services/cloud-object-storage?topic=cloud-object-storage-advanced-endpoints) utilizes {{site.data.keyword.keymanagementserviceshort}}'s service endpoint for its BYOK integration|
 | {{site.data.keyword.messages-for-rabbitmq}} | [{{site.data.keyword.messages-for-rabbitmq}} service endpoints integration](/docs/services/messages-for-rabbitmq?topic=cloud-databases-service-endpoints)| 
+| {{site.data.keyword.cfee_full_notm}} | [{{site.data.keyword.cfee_full_notm}} service endpoints integration](/docs/cloud-foundry?topic=cloud-foundry-isolated-network#private-access)| 
+| {{site.data.keyword.la_full}} | [{{site.data.keyword.la_full}} service endpoints integration](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-network#network_endpoints_private)|
 {: caption="Table 1. Services that support using service endpoints" caption-side="top"}
 
 
